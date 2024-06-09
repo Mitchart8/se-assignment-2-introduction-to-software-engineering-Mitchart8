@@ -7,14 +7,23 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+Its the systemstic application of engineering principles,methods and tools to the development and maintenance of high quality software systems.
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
+software engineering is designing and developing operating systems that manage our routines creating space for humans to focus on more complex problems.It differs from traditional programming in that ,it is more complex,more advanced in both quality and usage as its programming languages are easy to use and interprate.
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+a).Requirements-this is the gathering of tools that you will need to solve the problems of the users that you have documented.
+b).Design- this creating high level and detailed designs of the software architecture and user interface, these are what the software can or will do and the login displays etc.
+c).Implementation-this is the writing of the code and building the software according to design specifications
+d).Testing-this is key so as to ensure it meets the set quality standards and functional requirements.
+e).Deployment-this is releasing the software product to the user or customers in the market.
+f).Maintenace-this is also vital.Providing ongoing support,updates and enhancments to the software after deployment so as to keep up with the users changing needs.
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+Waterfall offers a more sequencial approach with distinct phases e.g requirements,design.implementation,testing,deployment & maintainance.It is mostly prefered for short projects and can be recognised in displays where words or images fall from top to bottom on the screen like a waterfall .Whereas agile is more iterative like alternating and has an incremental approach focused on flexibility,collaboration & response to change.Its most prefered for long projects where you have to add or omit things as you go on.
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
